@@ -28,7 +28,9 @@ Step 3: pip install selenium webdriver-manager
 
 8. Replace accounts you want to track & discord webhook in the script.
 
-9. Run the script and enjoy.
+9. To track multiple accounts just launch more instances of the script and change the account to track.
+
+10. Run the script and enjoy.
 
 
 # MADE BY https://x.com/UtopiaTM_stake
@@ -40,3 +42,5 @@ Step 3: pip install selenium webdriver-manager
 **Faster tracking**
 
 **Embed the text**
+
+**Track multiple accounts within same script**
