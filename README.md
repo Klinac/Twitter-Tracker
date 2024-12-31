@@ -33,7 +33,7 @@ Step 3: pip install selenium webdriver-manager
 10. Run the script and enjoy.
 
 
-# MADE BY https://x.com/UtopiaTM_stake
+# MADE BY https://x.com/UtopiaTM_trench
 
 # Future Updates:
 
