@@ -32,3 +32,11 @@ Step 3: pip install selenium webdriver-manager
 
 
 # MADE BY https://x.com/UtopiaTM_stake
+
+# Future Updates:
+
+**Tracking replies**
+
+**Faster tracking**
+
+**Embed the text**
